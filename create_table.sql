@@ -1,4 +1,4 @@
---CREATNG A TABLE--
+ --CREATNG A TABLE--
 
 CREATE TABLE account(
    user_id SERIAL PRIMARY KEY,
